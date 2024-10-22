@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ventionat.github.io/ventionat.txt.gz
+Sitemap: https://ventionat.github.io/app/ventionat.txt.gz
+Sitemap: https://ventionat.github.io/assets/ventionat.txt.gz
+Sitemap: https://ventionat.github.io/css/ventionat.txt.gz
+Sitemap: https://ventionat.github.io/includes/ventionat.txt.gz
+Sitemap: https://ventionat.github.io/item/ventionat.txt.gz
+Sitemap: https://ventionat.github.io/src/ventionat.txt.gz
